@@ -1,0 +1,7 @@
+yaml
+gym
+pybullet
+torch
+FrEIA
+scipy
+h5py
